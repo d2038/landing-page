@@ -166,3 +166,11 @@ body {
   border: 2px solid #f9faf8;
   border-radius: 5px;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  padding: 30px 0;
+  font-size: 90%;  
+}
