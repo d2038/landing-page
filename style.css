@@ -47,7 +47,8 @@ body {
 .hero-content {  
   display: flex;
   flex-direction: column;
-  justify-content: center;  
+  justify-content: center;
+  align-items: flex-start;  
   gap: 15px;
 }
 
@@ -68,7 +69,6 @@ body {
 }
 
 .hero-content button {  
-  width: fit-content;
   background-color: #3882f6;
   color: #f9faf8;
   font-weight: bold;
